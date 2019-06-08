@@ -1,4 +1,4 @@
-# GitJournal: 基於 git 的期刊出版新模式
+# 論文 -- 《GitJournal: 基於 git 的期刊出版新模式》
 
 > 本論文投稿到 《Git 開源期刊》，正在審查中！
 
