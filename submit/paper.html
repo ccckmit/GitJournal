@@ -191,7 +191,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <a class="sourceLine" id="cb1-65" title="65"><span class="fu"># 參考文獻</span></a></code></pre></div>
 <p>另外、 pandoc 還支援了一個稱為 pandoc-citeproc 的文獻引用功能，可以讓我們用 bibtex 儲存文獻，只要在 markdown 論文裏用 <code>@引用標記</code> (例如上文中的 <code>@kour2014fast, @hadash2018estimat</code> 等等) ， pandoc 就會自動將這些文獻用標準格式放到最後面，這樣就可以支援《完整的論文撰寫語法》了。</p>
 <p>下圖是上述《論文樣版》經 pandoc 轉換後以 HTML 和 PDF 兩種模式呈現在瀏覽器中的樣子，我們設計的樣板盡可能採用統一的學術風格呈現方式，但是讓 HTML 可以適應較小的手機畫面呈現方式。</p>
-<p><img src="./img/mdExampleRendered.png" /></p>
+<p><img src="./img/mdExampleHtml.png" /></p>
 <h1 id="結語">結語</h1>
 <p>雖然 pandoc 的功能已經設計得很好，格式也支援的很廣，但是我們在使用 pandoc 來創建論文撰寫工具的過程當中，還是碰到了一些障礙，其中有一些已經克服了，但是還有一些仍待克服，像是《HTML 中的數學公式與圖片無法在最右邊標號》等等的小瑕疵，仍然令人感覺不夠滿意。</p>
 <p>不過這些瑕疵都可以用某些方式彌補，例如改在上方或下方標號等等，但這些是技術不足問題，只要逐步的改進，應該是可以克服的。</p>
