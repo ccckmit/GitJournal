@@ -71,7 +71,8 @@ author:
     email: MitchellJohn@gmail.com
 
 abstract: |
-  簡短介紹這篇論文的主要貢獻與使用方法等等，例如：本文提出一種基於 xxx 的方法，可以在 ooo 的條件下進行 xxx 的模擬 .....
+  簡短介紹這篇論文的主要貢獻與使用方法等等，例如：本文提出一種基於 xxx 的方法，
+  可以在 ooo 的條件下進行 xxx 的模擬 .....
 
 keyword: ["xxx", "ooo"]
 url: https://github.com/ccckmit/xxx.git
@@ -83,7 +84,9 @@ url: https://github.com/ccckmit/xxx.git
 
 # 文獻回顧
 
-介紹一下目前其他人的研究成果並具體舉出文獻，例如 @kour2014fast, @hadash2018estimate 等等， ....
+介紹一下目前其他人的研究成果並具體舉出文獻，
+
+例如 @kour2014fast, @hadash2018estimate 等等， ....
 
 接著介紹你的方法有何優勢等等 ...
 
