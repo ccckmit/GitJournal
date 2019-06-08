@@ -130,7 +130,7 @@ $$
 
 下圖是上述《論文樣版》經 pandoc 轉換後以 HTML 和 PDF 兩種模式呈現在瀏覽器中的樣子，我們設計的樣板盡可能採用統一的學術風格呈現方式，但是讓 HTML 可以適應較小的手機畫面呈現方式。
 
-![](./img/mdExampleRendered.png)
+![](./img/mdExampleHtml.png)
 
 
 # 結語
